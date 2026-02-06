@@ -11,10 +11,12 @@
 
 # Моя первая программа
 ``` python
-user_name = "Студент"
-number_a = 15
-number_b = 7
+name = "Студент"
+a = 1500
+b = 7
 
-print(f"Привет, {user_name}!")
-print(f"Сумма чисел {number_a} и {number_b} равна {number_a + number_b}")
+result = a - b
+
+print(f"Привет, {name}!")
+print(f"Результат сложения {a} - {b} равен {result}")
 ```

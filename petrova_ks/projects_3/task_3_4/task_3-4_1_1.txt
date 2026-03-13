@@ -1,0 +1,4 @@
+bin		   dev	 lib64		    mnt   run		      srv  var
+bin.usr-is-merged  etc	 lib.usr-is-merged  opt   sbin		      sys
+boot		   home  lost+found	    proc  sbin.usr-is-merged  tmp
+cdrom		   lib	 media		    root  snap		      usr
